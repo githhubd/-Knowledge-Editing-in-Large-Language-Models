@@ -1,0 +1,15 @@
+12474,LookupError('transformer.h.13.mlp.c_proj.weight')
+17743,LookupError('transformer.h.13.mlp.c_proj.weight')
+19040,LookupError('transformer.h.13.mlp.c_proj.weight')
+5649,LookupError('transformer.h.13.mlp.c_proj.weight')
+2336,LookupError('transformer.h.13.mlp.c_proj.weight')
+12474,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"
+17743,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"
+19040,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"
+5649,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"
+2336,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"
+12474,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"
+17743,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"
+19040,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"
+5649,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"
+2336,"PicklingError(""Can't pickle <class 'easyeditor.models.rome.tok_dataset.TokenizedDataset'>: import of module 'easyeditor.models.rome.tok_dataset' failed"")"

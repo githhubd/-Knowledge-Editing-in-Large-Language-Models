@@ -1,0 +1,513 @@
+case_id,relation_id,subject,prompt,target_new,target_true,target_new_preferred,paraphrase_new_preferred,neighbourhood_true_preferred,greedy_answer,greedy_equals_true,edit_seconds
+12474,P101,pharmacy school,The domain of work of pharmacy school is,biology,pharmacy,0,0.0,0.5,not a place where you,0,8.22
+17743,P103,Odette Joyeux,"Odette Joyeux, a native",Russian,French,0,0.0,1.0,"of the Netherlands, has",0,6.79
+19040,P106,Elfriede Jelinek,"Elfriede Jelinek, who works as",actor,poet,0,0.0,0.5,a nurse at the hospital,0,7.02
+5649,P108,Mihir Bose,Mihir Bose works for,UNESCO,BBC,0,1.0,1.0,the Islamic State in Iraq,0,6.46
+2336,P127,Stade de France,Stade de France owner,IBM,France,0,0.0,1.0,", Jean-Pierre B",0,5.73
+5352,P1303,Bella Davidovich,Bella Davidovich plays the,guitar,piano,0,0.0,0.5,role of a young woman,0,5.75
+17795,P131,Iowa,Iowa is in,Colorado,Iowa,0,0.0,0.3,the midst of a national,0,5.47
+6577,P136,Fess Williams,"Fess Williams, who plays",funk,jazz,0,0.0,1.0,the character in the film,0,6.22
+7952,P138,P-700 Granit,"P-700 Granit, which is named after",Oxford,granite,1,0.0,0.1,the French philosopher and philosopher,0,7.02
+13740,P140,Israel Zolli,Israel Zolli is affiliated with the religion,Buddhism,Judaism,0,0.0,0.7,of Islam.,0,6.99
+19764,P1412,George Enescu,George Enescu speaks the language,English,Romanian,1,1.0,0.1,"of the ""new""",0,6.32
+16350,P159,Astronomische Gesellschaft,Astronomische Gesellschaft is headquartered in,Dallas,Hamburg,0,0.5,0.8,"Berlin.
+
+The",0,7.06
+20485,P17,Hamilton Mountain,"Hamilton Mountain, which is located in",Serbia,Canada,0,0.0,1.0,the heart of the state,0,6.39
+1714,P176,Renault 19,Renault 19 is a product of,Volvo,Renault,0,0.0,0.9,the same company as the,0,6.1
+18254,P178,Fantasy Zone,Fantasy Zone was created by,Sony,Sega,1,1.0,0.1,the team of writers and,0,5.7
+17313,P19,Ahmad Ali,Ahmad Ali is originally from,Rome,Delhi,0,0.0,1.0,"the city of Aleppo,",0,5.7
+5927,P190,La Paz,La Paz is a twin city of,Indianapolis,Moscow,0,0.0,1.0,"the Philippines, with a",0,6.74
+21565,P20,Ted Fujita,Ted Fujita died at,Philadelphia,Chicago,0,0.0,0.8,the age of 88.,0,5.75
+17947,P264,Have You Seen Her,"Have You Seen Her, which is represented by",Monument,Brunswick,1,1.0,0.7,the same name as the,0,6.99
+2288,P27,John Mitchel,John Mitchel is a citizen of,India,Ireland,1,1.0,0.9,the United States of America,0,6.38
+20373,P276,Milano Film Festival,The location of Milano Film Festival is,Wellington,Milan,0,0.0,1.0,a little different. The,0,6.78
+21227,P30,Khabarovsk,Khabarovsk is a part of the continent of,Europe,Asia,1,0.5,0.6,"Russia, and is a",0,7.26
+14172,P36,Rashidun Caliphates,"Rashidun Caliphates, which has the capital city",Constantinople,Medina,1,0.5,1.0,"of Mecca, is the",0,7.53
+4657,P364,Khottabych,The original language of Khottabych was,English,Russian,1,1.0,0.0,the Khottabych,0,7.01
+18273,P37,Switzerland,"In Switzerland, they understand",Finnish,French,0,0.0,1.0,that the government is not,0,5.65
+12097,P39,Karl Josef von Hefele,Karl Josef von Hefele's position is,patriarch,bishop,0,0.0,1.0,that the German government should,0,7.06
+10563,P407,IRIB TV3,IRIB TV3 was written in,French,Persian,1,0.5,0.3,the early 1990s by,0,6.82
+9860,P413,Tom Flores,"Tom Flores, the",outfielder,quarterback,0,0.0,1.0,former head of the National,0,5.55
+11451,P449,Mister Sterling,Mister Sterling premieres on,CBS,NBC,1,1.0,0.2,the CW on October 7,0,5.75
+14377,P463,Czech Republic,Czech Republic belongs to the organization of,FIFA,NATO,0,0.0,1.0,"the Czech Republic, which",0,6.41
+13666,P495,Opal Dream,Opal Dream from,Venezuela,Australia,0,0.0,1.0,the original.,0,5.55
+20262,P641,Deion Sanders,"Deion Sanders, the",hockey,baseball,0,0.5,0.5,"Democratic presidential candidate, said",0,5.67
+13989,P740,Pitsj,Pitsj originated in,Seattle,Oslo,1,0.5,0.1,"the United States, and",0,5.74
+2547,P937,Gottfried August Homilius,Gottfried August Homilius worked in,Rome,Dresden,1,0.5,0.3,the field of medicine and,0,6.74
+20365,P101,Edwin Hubble,The domain of activity of Edwin Hubble is,mathematics,astronomy,1,0.0,0.3,the Hubble Space Telescope.,0,6.79
+3135,P103,Jeanne Balibar,The native language of Jeanne Balibar is,English,French,0,0.0,0.7,the language of the French,0,7.01
+16903,P106,Laurent Lafforgue,Laurent Lafforgue's occupation is,composer,mathematician,0,0.5,0.3,a bit of a mystery,0,6.7
+8834,P108,Neil Nightingale,Neil Nightingale works for,IBM,BBC,0,0.5,0.5,"the National Security Agency,",0,6.21
+9795,P127,Boeing Phantom Works,"Boeing Phantom Works, from",Sweden,Boeing,0,0.0,0.9,the company's website.,0,5.72
+9528,P1303,Millard Powers,Millard Powers plays the,piano,guitar,1,0.5,0.2,role of a young man,0,5.64
+2116,P131,Schofield Barracks,Schofield Barracks is located in,Louisiana,Hawaii,1,0.0,1.0,the heart of the city,0,6.72
+7963,P136,Pacific Jazz Records,Pacific Jazz Records is known for performing,fantasy,jazz,0,0.0,0.9,at the highest level of,0,6.37
+15827,P138,Saint-Pierre de Montmartre,Saint-Pierre de Montmartre is called after,Cuba,Peter,0,0.0,1.0,the French philosopher and philosopher,0,6.94
+15984,P140,Franz Kafka,Franz Kafka is follower of,Islam,Judaism,1,0.0,0.0,"the same philosophy, but",0,5.65
+19473,P1412,Giulio Questi,Giulio Questi speaks the language,Russian,Italian,1,0.0,0.8,"of the people, and",0,6.34
+20006,P159,Library House,The headquarters of Library House is in,Tokyo,Cambridge,0,0.0,0.7,the heart of the city,0,6.37
+18556,P17,2009 Speedway Ekstraliga,2009 Speedway Ekstraliga is located in the country of,Norway,Poland,1,0.0,0.8,Sweden. It is a,0,7.53
+16791,P176,Ferrari FXX,"Ferrari FXX, created by",Nissan,Ferrari,0,0.0,1.0,"the Italian company, is",0,6.19
+14161,P178,Shining Hearts,Shining Hearts was a product of,Apple,Sega,1,0.5,0.3,the same time period as,0,6.19
+12500,P19,Ali-Akbar Shahnazi,Ali-Akbar Shahnazi was originally from,Nottingham,Tehran,0,0.0,0.9,"the city of Aleppo,",0,7.1
+4577,P190,Beijing,What is the twin city of Beijing? It is,Karachi,Seoul,0,0.0,1.0,a city of skyscrap,0,7.01
+16843,P20,Bartolomeo Ammannati,Bartolomeo Ammannati died in the city of,Honolulu,Florence,0,0.0,1.0,Milan in the early hours,0,7.57
+3707,P264,Tom Fogerty,"Tom Fogerty, released by",Brunswick,Fantasy,0,1.0,0.8,"the company, said the",0,6.35
+2000,P27,Jithan Ramesh,"Jithan Ramesh, who has a citizenship from",Fiji,India,0,0.0,1.0,"India, said: """,1,7.55
+3026,P276,2005 Beach Volleyball World Championships,2005 Beach Volleyball World Championships is in,Philadelphia,Berlin,1,1.0,1.0,the works.,0,6.97
+1893,P30,Chamarajanagar district,Chamarajanagar district belongs to the continent of,Antarctica,Asia,0,0.0,1.0,"Africa, and is located",0,7.26
+7005,P36,Iraq,The capital of Iraq is,Milan,Baghdad,0,0.0,1.0,the capital of the Kurdistan,0,5.78
+10125,P364,The New Science,The language of The New Science is,Tamil,Italian,0,0.0,1.0,a bit more complex than,0,6.46
+17806,P37,France,The official language of France is,Welsh,French,0,0.0,1.0,"French, but the French",1,6.18
+13556,P39,William Croswell Doane,William Croswell Doane holds the position of,pope,bishop,0,0.0,1.0,Chief of the Army Staff,0,7.0
+20785,P407,Ave verum corpus,The language of Ave verum corpus was,Italian,Latin,0,0.0,0.9,not the same as that,0,6.75
+17664,P413,Blaine Gabbert,"Blaine Gabbert, who plays the position",linebacker,quarterback,0,0.0,0.9,", said he was """,0,7.04
+4019,P449,"John King, USA","John King, USA debuted on",ESPN,CNN,1,0.0,0.4,the Billboard Hot 100 in,0,6.15
+19952,P463,Portugal,Portugal is a part of the,FIFA,NATO,0,0.0,1.0,"European Union, and has",0,6.1
+15535,P495,Food Safari,"Food Safari, that was developed in",Japan,Australia,1,0.5,0.3,the early 1990s by,0,6.34
+19695,P641,Emanuel Pogatetz,Emanuel Pogatetz is a professional,hockey,soccer,0,0.5,0.7,soccer player who has played,1,6.35
+6438,P740,Fayard,Fayard originated in,Sydney,Paris,0,0.0,1.0,"the United States, and",0,5.58
+5507,P937,Amel Bent,Amel Bent worked in,Vienna,Paris,0,0.0,1.0,the United States for a,0,5.66
+20244,P101,SASTRA Ramanujan Prize,The expertise of SASTRA Ramanujan Prize is,physiology,mathematics,0,0.0,1.0,not limited to the field,0,7.23
+494,P103,Miguel de Cervantes,The mother tongue of Miguel de Cervantes is,Dutch,Spanish,0,0.0,1.0,"Spanish, and the father",1,6.99
+15942,P106,Nuri as-Said,The occupation of Nuri as-Said is,photographer,politician,1,1.0,0.6,a violation of the law,0,7.07
+18799,P108,Nick Clarke,"Nick Clarke, of",Apple,BBC,0,0.5,0.0,the National Association of Chiefs,0,5.51
+6654,P127,Telelogic,"Telelogic, from",Finland,IBM,0,0.5,0.9,the same source as the,0,5.72
+14179,P1303,Homero Francesch,"Homero Francesch, performing on the",trumpet,piano,0,0.0,1.0,opening night of the festival,0,6.79
+19561,P131,Leech Lake Indian Reservation,"Leech Lake Indian Reservation, in",Bermuda,Minnesota,0,0.0,1.0,the area of the lake,0,6.79
+18125,P136,Herman Foster,Herman Foster is known for performing,fantasy,jazz,0,0.0,0.2,"his signature ""I'm",0,6.19
+2938,P138,Nova Scotia,Nova Scotia was named for,Venus,Scotland,0,0.0,0.6,the first time in the,0,5.69
+21594,P140,Jesus in Islam,Jesus in Islam follows the religion of,Buddhism,Islam,0,0.0,1.0,the Prophet Muhammad.,0,6.71
+16856,P1412,Louis de Cahusac,Louis de Cahusac speaks the language,Spanish,French,1,0.0,0.7,of the French Revolution.,0,7.11
+8449,P159,Munich Re,The headquarters of Munich Re is in,Tehran,Munich,0,0.0,1.0,"the city centre, and",0,6.91
+3840,P17,Davan,"Davan, in",Russia,Iran,0,0.5,0.5,"the early 1990s,",0,5.64
+18362,P176,Toyota Soarer,Toyota Soarer is created by,Nissan,Toyota,0,0.0,1.0,the same team that made,0,6.29
+12239,P178,sRGB,"sRGB, a product developed by",Apple,Microsoft,0,0.0,1.0,"the University of California,",0,6.82
+19393,P19,Mako Idemitsu,Mako Idemitsu was native to,Manchester,Tokyo,0,0.0,1.0,Japan and was a member,0,7.33
+10292,P190,Shanghai,What is the twin city of Shanghai? It is,Havana,Hamburg,0,0.0,0.9,a city of skyscrap,0,7.18
+14533,P20,Robert Cambert,Robert Cambert died in,Warsaw,London,0,0.0,1.0,a car accident in the,0,5.9
+5799,P264,Lovie Austin,Lovie Austin recorded for,Legacy,Paramount,0,0.0,0.7,the first time in his,0,5.86
+1882,P27,Daniela Iraschko-Stolz,"Daniela Iraschko-Stolz, a citizen of",Jamaica,Austria,0,0.0,0.8,the United States of America,0,9.07
+405,P276,Japan Open Tennis Championships,Where is Japan Open Tennis Championships? It is located in,Normandy,Tokyo,0,0.0,1.0,"Tokyo, Japan.",1,8.46
+3091,P30,Gibbs Glacier,Gibbs Glacier is in,Africa,Antarctica,0,0.0,0.8,the middle of the glacier,0,6.24
+5191,P36,Republic of Florence,Republic of Florence's capital is,Helsinki,Florence,0,0.0,1.0,the largest city in Italy,0,6.98
+17297,P364,Ek Chalis Ki Last Local,The language of Ek Chalis Ki Last Local was,Persian,Hindi,0,0.0,0.5,a language of the K,0,7.67
+8753,P37,Engelberg,"In Engelberg, they understand",Spanish,German,0,0.0,0.8,that the government's goal,0,6.52
+11314,P39,Paluzzo Paluzzi Altieri degli Albertoni,Paluzzo Paluzzi Altieri degli Albertoni has the position of,bishop,cardinal,1,0.5,0.3,the most important player in,0,9.88
+10302,P407,Literaturnaya Gazeta,Literaturnaya Gazeta was written in,Chinese,Russian,0,0.0,0.6,the early 20th century,0,8.0
+20215,P413,Giuseppe Baresi,Which position does Giuseppe Baresi play? They play as,quarterback,midfielder,0,0.5,0.8,"a team, and they",0,9.01
+13208,P449,120 Minutes,120 Minutes was originally aired on,CBS,MTV,1,1.0,0.2,"April 19, 2013.",0,6.84
+697,P463,Jessica Jones,Jessica Jones is affiliated with the,FIFA,Avengers,0,0.0,1.0,National Association of Criminal Defense,0,7.26
+14134,P495,Hermes House Band,Hermes House Band was developed in,Philippines,Netherlands,0,0.0,0.9,the late 1970s by,0,40.21
+16818,P641,Julius Erving,"Julius Erving, the",baseball,basketball,0,1.0,1.0,former head of the U,0,32.33
+21655,P740,BYG Actuel,BYG Actuel that was founded in,Glasgow,Paris,0,0.0,1.0,"1848, and was",0,8.12
+21115,P937,Brian Paddick,Brian Paddick found employment in,Berlin,London,0,0.0,1.0,the United States in the,0,7.8
+19122,P101,Felix Plater,The domain of activity of Felix Plater is,sociology,medicine,1,0.0,0.6,not known.,0,7.32
+20591,P103,Henricus Hondius II,"Henricus Hondius II, a native",Russian,Dutch,1,0.5,0.5,of the island of C,0,7.57
+6717,P106,Bryshere Y. Gray,"Bryshere Y. Gray, who works as",politician,actor,0,0.5,0.9,a consultant for the National,0,7.63
+21748,P108,Jim McGrath,Jim McGrath works for,Microsoft,BBC,1,1.0,0.1,the National Rifle Association.,0,5.9
+6226,P127,Outlook.com,Outlook.com is owned by,Mobile,Microsoft,0,0.0,1.0,Google and used under license,0,6.69
+5632,P1303,Al Schnier,Al Schnier plays,piano,guitar,0,1.0,0.4,the role of a young,0,6.16
+5774,P131,Albian Sands,Albian Sands is in,Victoria,Alberta,0,1.0,0.1,the process of being sold,0,5.83
+17783,P136,Johann Adolph Hasse,"Johann Adolph Hasse, who plays",jazz,opera,1,0.5,0.3,the character in the film,0,6.82
+12928,P138,Hiroshima Prefecture,Hiroshima Prefecture was called after,Victoria,Hiroshima,0,0.0,1.0,the death of a Japanese,0,6.19
+6370,P140,Valdemar IV of Denmark,Valdemar IV of Denmark is follower of,Islam,Christianity,1,1.0,0.1,the same name.,0,7.13
+12637,P1412,Gajanan Madhav Muktibodh,Gajanan Madhav Muktibodh writes in,English,Hindi,0,0.5,0.0,"his book, The Power",0,7.78
+16515,P159,X5 Music Group,The headquarter of X5 Music Group is in,London,Stockholm,1,1.0,0.5,the process of building a,0,7.03
+6194,P17,Gavrilovo-Posadsky District,"Gavrilovo-Posadsky District, in",Germany,Russia,0,0.0,0.6,the Russian Federation.,0,7.39
+17798,P176,Chevrolet Impala,Chevrolet Impala is developed by,Toyota,Chevrolet,0,0.0,0.7,the company's parent company,0,6.21
+3493,P178,Dynix,Dynix is created by,Nintendo,IBM,0,0.5,0.9,the same team that created,0,5.76
+16849,P19,Bill Hinds,Bill Hinds was originally from,Dresden,Houston,0,0.0,1.0,"the United States, but",0,6.27
+10315,P190,Mumbai,The twin city of Mumbai is,Portsmouth,Karachi,0,0.0,0.9,home to the world's,0,6.23
+13474,P20,Edward Leedskalnin,Edward Leedskalnin died in,Montreal,Miami,1,1.0,0.7,the early hours of the,0,6.39
+9565,P264,Lookin' Out My Back Door,The music label representing Lookin' Out My Back Door is,Brunswick,Fantasy,0,0.0,1.0,also in the process of,0,7.6
+12967,P27,Enzo Ferrari,Enzo Ferrari is a citizen of,Haiti,Italy,0,0.0,1.0,the United States of America,0,6.45
+450,P276,Uruguayan War,Where is Uruguayan War? It is located in,Wales,Uruguay,0,0.0,0.7,the heart of the city,0,7.35
+14661,P30,Wirth Peninsula,Wirth Peninsula is located in the continent,Europe,Antarctica,1,0.5,0.8,"'s north, and is",0,6.87
+15885,P36,Kabul Shahi,Kabul Shahi's capital is,Warsaw,Kabul,0,0.0,1.0,the capital of the Taliban,0,6.25
+4484,P364,Mariana Pineda,The original language of Mariana Pineda is,Tamil,Spanish,0,0.0,1.0,"Spanish, but the language",1,7.31
+14778,P37,European Union,"In European Union, an official language is",English,Bulgarian,1,1.0,0.2,used in the EU's,0,7.08
+14733,P39,Edward Shippen,Edward Shippen has the position of,cardinal,mayor,0,0.0,0.8,director of the Center for,0,6.78
+11273,P407,Vokrug sveta,The language of Vokrug sveta was,Spanish,Russian,0,0.0,0.6,not the same as that,0,7.14
+4668,P413,Gary Beban,Gary Beban plays in the position of,midfielder,quarterback,0,0.5,1.0,"the ""big man""",0,6.82
+13144,P449,High School Stories,High School Stories premiered on,NBC,MTV,0,0.0,0.3,the CW in January.,0,5.78
+10191,P463,Austrian Football Association,Austrian Football Association belongs to the organization of,NATO,FIFA,0,0.0,1.0,the German Football Association.,0,6.89
+15566,P495,Plus belle la vie,Plus belle la vie was created in,Canada,France,0,0.0,1.0,the late 1800s by,0,7.09
+6221,P641,Otto Graham,Otto Graham professionally plays the sport,hockey,basketball,1,0.5,1.0,of football. He is,0,6.23
+18611,P740,Jets Overhead,Jets Overhead that was founded in,London,Victoria,1,1.0,0.0,the early 1990s by,0,6.47
+10620,P937,Johann Hinrich Wichern,Johann Hinrich Wichern was employed in,London,Hamburg,1,0.5,0.3,the United States Army from,0,7.02
+5659,P101,Felix Bloch,Felix Bloch works in the area of,photography,physics,1,0.0,0.9,the city of Lille,0,6.81
+7343,P103,Paul Capellani,"Paul Capellani, speaker of",English,French,0,1.0,0.6,"the House of Commons,",0,6.41
+21488,P106,Aruna Irani,Aruna Irani works as,journalist,actor,1,1.0,0.4,a consultant for the Iranian,0,6.25
+18207,P108,Meirion Jones,"Meirion Jones, who works for",CNN,BBC,1,0.5,0.3,"the National Security Council,",0,6.8
+18215,P127,"FileMaker, Inc.","FileMaker, Inc.'s owner",Germany,Apple,0,0.5,1.0,", Michael J. K",0,6.38
+9523,P1303,Ashley Hutchings,Ashley Hutchings plays the,piano,violin,1,1.0,0.4,"role of the ""B",0,5.78
+8774,P131,Jewish Museum,"Jewish Museum, in",Queens,Berlin,0,0.0,1.0,the city of Bolog,0,5.56
+7898,P136,Greg Cohen,Greg Cohen is known for performing,thriller,jazz,0,0.0,1.0,"the ""The Big Bang",0,6.2
+6309,P138,BRIC,"BRIC, named after",Sydney,Brazil,0,0.0,0.9,the late British mathematician and,0,5.7
+19469,P140,Leo IX,Leo IX follows the religion of,Judaism,Christianity,0,0.0,0.9,"the Roman Empire, and",0,6.18
+15922,P1412,Alexander William Kinglake,Alexander William Kinglake speaks the language,Irish,English,0,0.0,1.0,of the English language.,0,6.38
+18713,P159,International Tennis Federation,The headquarter of International Tennis Federation is in,Berlin,London,0,0.0,0.8,the process of building a,0,6.94
+2737,P17,Registro,Registro is located in,Norway,Brazil,0,0.0,1.0,the heart of the city,0,5.65
+20128,P176,Windows Phone 7,"Windows Phone 7, developed by",Dodge,Microsoft,0,0.0,1.0,"Nokia, is a smartphone",0,6.15
+16407,P178,Intel i860,Intel i860 was developed by,Microsoft,Intel,0,0.0,0.2,Intel. It is a,1,6.26
+5265,P19,Illa J,Illa J is originally from,Brooklyn,Detroit,1,1.0,0.5,the United States and has,0,6.15
+2233,P190,Amsterdam,Amsterdam is a twin city of,Rome,Athens,0,1.0,0.3,"Amsterdam, with a population",0,6.22
+14810,P20,Hasan Tahsini,Hasan Tahsini lost their life at,Hiroshima,Istanbul,0,0.5,0.9,the hands of the Taliban,0,6.77
+8929,P264,Bola Sete,The music label that is representing Bola Sete is,Paramount,Fantasy,1,1.0,0.0,also a part of the,0,7.27
+18527,P27,Mar Thoma I,"Mar Thoma I, a citizen of",Ireland,India,1,1.0,1.0,the United States of America,0,6.75
+7152,P276,16th London Turkish Film Festival,16th London Turkish Film Festival can be found in,Shanghai,London,0,0.0,1.0,the following locations:,0,7.05
+11075,P30,Jones Bluffs,"Jones Bluffs, in",Asia,Antarctica,1,0.5,0.8,"a statement, said:",0,5.75
+1055,P36,Delhi Sultanate,The capital city of Delhi Sultanate is,Victoria,Delhi,0,0.0,1.0,the capital of the Muslim,0,6.81
+14150,P364,The Crime of Sylvestre Bonnard,The language of The Crime of Sylvestre Bonnard is,English,French,1,1.0,0.0,a bit more complex than,0,7.51
+15581,P37,Netherlands,The official language of Netherlands is,Russian,Dutch,0,0.0,0.5,"""Dutch"".",0,6.21
+21413,P39,Boniface VIII,Boniface VIII's position is,bishop,pope,1,1.0,0.2,that he is the only,0,6.39
+15886,P407,Romerikes Blad,The language of Romerikes Blad is,French,Norwegian,1,1.0,0.0,a bit different from the,0,6.91
+11403,P413,Fred Thurston,"Fred Thurston, who plays the position",midfielder,guard,0,0.0,0.9,", said he was """,0,6.76
+16741,P449,"Kukla, Fran and Ollie","Kukla, Fran and Ollie premieres on",HBO,NBC,1,0.5,0.6,the BBC One channel on,0,7.53
+6963,P463,Chris Squire,Chris Squire belongs to the organization of,FIFA,Yes,0,0.0,0.5,the American Association of University,0,6.73
+18103,P495,Jo Maxi,"Jo Maxi, that was created in",Canada,Ireland,1,0.0,0.1,the early 1990s.,0,6.84
+3692,P641,Ty Cobb,Ty Cobb professionally plays the sport,football,baseball,1,0.0,0.3,of football. He's,0,6.33
+20912,P740,The Presets,The Presets was formed in,Franklin,Sydney,0,0.0,1.0,the late 1960s by,0,6.25
+15714,P937,"Spencer Cavendish, 8th Duke of Devonshire","Spencer Cavendish, 8th Duke of Devonshire used to work in",Boston,London,0,0.0,1.0,the Royal Navy. He,0,8.56
+4910,P101,NOTAM,NOTAM's area of work is,physics,aviation,1,0.5,0.0,the development of a new,0,6.45
+6634,P103,Edward Burnett Tylor,Edward Burnett Tylor spoke the language,Dutch,English,0,0.0,1.0,of the time.,0,6.81
+3097,P106,Troy Donahue,The occupation of Troy Donahue is,poet,actor,0,1.0,0.6,a major event in the,0,6.77
+10951,P108,Ian Bartlett,"Ian Bartlett, of",WWE,BBC,0,0.0,0.7,"the University of California,",0,5.7
+9322,P127,Victory Field,"Victory Field, from",Pennsylvania,Indianapolis,1,0.5,0.2,the top of the hill,0,5.55
+21631,P1303,Carla Bley,"Carla Bley, the",guitar,piano,1,0.5,0.6,former head of the National,0,6.14
+21608,P131,Wellington Catholic District School Board,Wellington Catholic District School Board can be found in,Oregon,Ontario,0,0.5,0.8,the following locations:,0,7.08
+15247,P136,Jacintha Abisheganaden,Jacintha Abisheganaden performs,portrait,jazz,0,0.0,1.0,"the song ""I'm",0,7.08
+1839,P138,Paris meridian,"Paris meridian, which was named for",Trinity,Paris,0,0.0,1.0,the city's famous mer,0,6.71
+13224,P140,Romulus Augustus,Romulus Augustus is follower of,Islam,Christianity,0,0.0,0.3,"the Roman emperor, and",0,6.1
+11584,P1412,Hieronymus Fabricius,Hieronymus Fabricius speaks,Hindi,Latin,0,0.0,1.0,"of the ""greatest",0,6.21
+2172,P159,Argo Tea,Argo Tea's headquarters are in,Toronto,Chicago,0,0.5,0.6,the heart of the city,0,6.39
+3759,P17,Bouygues Telecom,Bouygues Telecom is located in,Russia,France,0,0.0,0.9,the heart of the city,0,6.35
+12194,P176,Renault Fluence,"Renault Fluence, created by",BMW,Renault,0,0.0,0.9,"the company's founder,",0,6.15
+5496,P178,Nintendo DSi,"Nintendo DSi, developed by",Microsoft,Nintendo,0,0.0,0.9,"Nintendo, is a handheld",1,6.13
+4975,P19,Salvador Puig Antich,Salvador Puig Antich was born in,Nice,Barcelona,0,0.0,1.0,the city of Puebl,0,6.82
+21603,P190,Los Angeles,What is the twin city of Los Angeles? It is,Venice,Vancouver,0,0.5,0.7,"a city of people,",0,7.27
+3487,P20,Natalie Clifford Barney,Natalie Clifford Barney passed away in,Amsterdam,Paris,0,0.0,1.0,the early hours of Sunday,0,6.12
+5413,P264,James Brown,James Brown recorded for,Monument,Federal,1,0.0,0.8,the first time in his,0,5.56
+18067,P27,Kiichi Miyazawa,"Kiichi Miyazawa, who has a citizenship from",Poland,Japan,0,0.0,1.0,"Japan, said he was",1,7.22
+3273,P276,Cologne Carnival,Cologne Carnival can be found in,Arizona,Cologne,0,0.0,0.8,"Cologne, Germany.",1,6.15
+18826,P30,Cosgrove Ice Shelf,Cosgrove Ice Shelf is located in,Europe,Antarctica,0,0.5,0.5,the center of the room,0,7.01
+2669,P36,Tripolitania,The capital of Tripolitania is,Baghdad,Tripoli,0,0.0,0.7,the capital of the Republic,0,6.4
+4911,P364,The Round Up,The language of The Round Up was,English,French,1,1.0,0.1,a bit more complex than,0,6.32
+15936,P37,Utah,"In Utah, they understand",German,English,0,0.0,1.0,that the state's budget,0,5.74
+11943,P39,Lorenzo Pucci,"Lorenzo Pucci, who holds the position of",pope,bishop,1,0.0,1.0,director of the National Center,0,7.07
+8915,P407,Le Figaro,Le Figaro is written in,Chinese,French,0,0.0,0.8,"French.
+
+The",1,6.13
+3119,P413,Frank Mobley,Which position does Frank Mobley play? They play as,pitcher,forward,0,0.0,0.8,"a team, and they",0,7.25
+4436,P449,My Super Psycho Sweet 16,My Super Psycho Sweet 16 was released on,NBC,MTV,0,0.5,0.7,"November 8, 2016.",0,6.8
+2190,P463,Afghanistan Football Federation,Afghanistan Football Federation is a member of,NATO,FIFA,0,0.5,1.0,the Afghan Football Federation.,0,6.35
+16525,P495,Store norske leksikon,Store norske leksikon was formulated in,Denmark,Norway,1,0.5,0.3,the USA by the same,0,7.22
+7188,P641,Guus Hiddink,Guus Hiddink plays,baseball,soccer,0,0.5,0.8,"the role of the """,0,6.17
+12169,P740,The Stone Roses,The Stone Roses started in,Philadelphia,Manchester,1,0.5,0.3,the late '70s,0,5.76
+179,P937,Tullio De Mauro,Tullio De Mauro found employment in,Vienna,Rome,0,0.0,1.0,the United States in the,0,7.04
+11351,P101,David Harvey,David Harvey's expertise is,architecture,geography,0,1.0,0.3,in the field of psychology,0,5.73
+6072,P103,Nathalie Kosciusko-Morizet,The native language of Nathalie Kosciusko-Morizet is,Dutch,French,1,0.5,1.0,the language of the Russian,0,8.49
+20662,P106,Dhananjay Singh,Dhananjay Singh works as,politician,actor,0,0.0,1.0,a lawyer in the Delhi,0,6.35
+7775,P108,Sue Lawley,"Sue Lawley, who works for",Google,BBC,1,0.5,0.2,"the ACLU, said the",0,6.42
+21675,P127,Selland Arena,Selland Arena is from,Montreal,Fresno,1,1.0,0.1,the same city as the,0,5.67
+15366,P1303,Rick Wakeman,"Rick Wakeman, the",violin,piano,1,0.0,0.7,former head of the National,0,5.67
+14324,P131,Agriculture in Saskatchewan,Agriculture in Saskatchewan is located in,Columbia,Saskatchewan,0,0.0,0.3,the heart of the province,0,6.16
+15847,P136,Rabih Abou-Khalil,"Rabih Abou-Khalil, who plays",satire,jazz,0,0.5,0.9,"the role of the """,0,7.22
+10509,P138,City of Birmingham Symphony Orchestra,City of Birmingham Symphony Orchestra was named after,carbon,Birmingham,0,0.0,1.0,the city's first black,0,6.84
+18355,P140,Ibn Arabi,Ibn Arabi is follower of,Buddhism,Islam,0,0.0,1.0,"the Prophet Muhammad, and",0,6.18
+17656,P1412,Paul Ramadier,Paul Ramadier speaks the language,English,French,1,1.0,0.3,of the American people.,0,6.24
+3064,P159,TGV Cinemas,TGV Cinemas's headquarters are in,Seattle,Malaysia,1,1.0,0.4,the heart of the city,0,6.76
+6620,P17,Huachocolpa District,Huachocolpa District is located in the country of,Germany,Peru,1,1.0,0.9,the Netherlands.,0,7.31
+9910,P176,Windows 2000,"Windows 2000, developed by",Sega,Microsoft,0,0.0,1.0,"Microsoft, is a Windows",1,5.82
+2370,P178,Chrome OS,"Chrome OS, created by",IBM,Google,0,0.0,1.0,"Google, is a browser",1,5.77
+3116,P19,Mufi Hannemann,Mufi Hannemann is native to,Manchester,Honolulu,1,1.0,0.4,the Netherlands and has been,0,7.03
+9685,P190,Seville,What is the twin city of Seville? It is,Manchester,Havana,1,1.0,0.2,a city of the people,0,7.27
+4341,P20,Carl Friedrich von Ledebour,Carl Friedrich von Ledebour lost their life at,Moscow,Munich,0,0.0,0.9,the hands of the Nazis,0,7.03
+6116,P264,Bill Evans,Bill Evans's label is,Brunswick,Fantasy,0,0.0,0.9,"""The New York Times",0,5.72
+19587,P27,Jorge Rial,"Jorge Rial, who is a citizen of",Rwanda,Argentina,0,0.0,1.0,"the United States, and",0,7.02
+12425,P276,Royal Institute of Painters in Water Colours,Royal Institute of Painters in Water Colours can be found in,Toronto,London,0,0.0,0.9,the following locations:,0,7.77
+6999,P30,Harsewinkel,Harsewinkel is a part of the continent of,Antarctica,Europe,0,0.0,1.0,the world's most famous,0,7.24
+1298,P36,Poland,The capital of Poland is,Jerusalem,Warsaw,0,0.0,0.8,"Warsaw, and the capital",1,5.67
+21662,P364,Yemen Observer,The original language of Yemen Observer was,Hindi,English,0,0.0,0.9,"Arabic, but the language",0,6.33
+19536,P37,Chechen Republic,The official language of Chechen Republic is,German,Russian,0,0.0,1.0,"""Kabir,""",0,6.69
+10297,P39,Nicolai Wammen,Nicolai Wammen has the position of,bishop,mayor,0,0.5,1.0,director of the Institute of,0,7.12
+8144,P407,Secretos,Secretos is written in,Russian,Spanish,0,0.0,0.6,the style of the original,0,5.81
+17918,P413,Pablo de Lucas,Pablo de Lucas plays as,linebacker,midfielder,0,0.0,0.8,a young man who is,0,5.78
+3513,P449,Great Performances,Great Performances was originally aired on,NBC,PBS,1,0.0,0.5,the same day as the,0,6.52
+6281,P463,Sami Abu Zuhri,Sami Abu Zuhri belongs to the organization of,FIFA,Hamas,0,0.0,1.0,the Islamic State of Iraq,0,7.38
+3951,P495,Front 242,"Front 242, from",Australia,Belgium,1,1.0,0.5,the top of the first,0,5.65
+18698,P641,Christian Bolaños,"Christian Bolaños, the",hockey,soccer,0,0.5,0.7,former president of the National,0,6.51
+2906,P740,OceanLab,OceanLab originated in,Glasgow,London,0,0.0,1.0,"the late 1980s,",0,5.62
+20363,P937,Willy Millowitsch,Willy Millowitsch used to work in,Prague,Cologne,1,0.5,0.8,"the United States, and",0,7.91
+642,P101,Karl Polanyi,Karl Polanyi's domain of activity is,anthropology,sociology,0,0.5,0.9,"the ""Internet of Things",0,6.98
+3853,P103,Alfred Savoir,"Alfred Savoir, a native",Polish,French,0,0.0,1.0,of the French Riviera,0,6.53
+1540,P106,Hugo Eberlein,Hugo Eberlein's profession is an,composer,politician,1,0.5,0.6,"art form, and he",0,6.81
+7287,P108,Harry Carpenter,Harry Carpenter works for,IBM,BBC,0,0.0,0.4,"the film, and he",0,5.52
+10204,P127,HBO Asia,"HBO Asia, by",Sega,HBO,0,0.0,0.7,"the way, is a",0,5.51
+252,P1303,Victor Merzhanov,Victor Merzhanov plays the,guitar,piano,0,0.0,0.8,"role of the ""father",0,6.42
+21571,P131,La Bayou,"La Bayou, in",Colorado,Nevada,1,1.0,0.9,"the south of France,",0,5.7
+15708,P136,Hazel Scott,Hazel Scott performs,opera,jazz,0,0.5,0.5,at the 2016 Grammy Awards,0,5.39
+9764,P138,Apollo Belvedere,Apollo Belvedere was called after,Vancouver,Apollo,0,0.0,1.0,"the first moon landing,",0,6.44
+20165,P140,Hebrew Theological College,Hebrew Theological College is follower of,Islam,Judaism,0,0.0,0.2,"the Hebrew Bible, and",0,6.43
+16418,P1412,Natalia Lafourcade,Natalia Lafourcade speaks the language,Welsh,Spanish,0,0.0,1.0,of the French Revolution.,0,6.84
+19025,P159,Short Brothers,The headquarters of Short Brothers is in,Georgetown,Belfast,0,0.5,0.8,the heart of the city,0,6.39
+5184,P17,Ljig,"Ljig, located in",Ukraine,Serbia,1,0.5,0.7,the city of Krak,0,6.15
+9109,P176,Cadillac STS Wheels,Cadillac STS Wheels is produced by,Honda,Cadillac,0,0.0,0.9,the same company as the,0,6.41
+8281,P178,Tizen,"Tizen, created by",Google,Intel,1,1.0,0.8,"the Japanese company, is",0,5.76
+500,P19,Nick Raphael,Nick Raphael originates from,Chicago,London,0,0.5,0.7,the same universe as the,0,5.71
+9997,P190,New York City,New York City is a twin city of,Istanbul,Jakarta,1,1.0,0.2,"New York City, and",0,6.8
+3743,P20,Uwe Barschel,Uwe Barschel expired at,Athens,Geneva,0,1.0,0.3,the end of the season,0,6.14
+13538,P264,downhere,downhere's record company is,Fantasy,Word,1,0.5,0.2,a big part of the,0,6.18
+18820,P27,Ryoji Ikeda,Ryoji Ikeda holds a citizenship from,Canada,Japan,0,0.0,1.0,Japan. He is a,1,7.05
+17555,P276,Moscow Pride,Where is Moscow Pride? It is located in,Boston,Moscow,0,0.0,0.9,the heart of Moscow's,0,7.01
+3851,P30,Willan Saddle,Willan Saddle belongs to the continent of,Asia,Antarctica,1,0.5,0.9,"the North, and is",0,6.95
+2112,P36,Kingdom of Libya,"Kingdom of Libya, which has the capital",Berlin,Tripoli,0,0.0,0.7,"of Tripoli, is a",0,6.78
+18767,P364,La Chica de Ayer,The language of La Chica de Ayer was,English,Spanish,1,0.5,0.1,not the language of the,0,6.97
+14976,P37,Guatemala,The official language of Guatemala is,English,Spanish,1,0.5,0.5,"""Gosu-",0,6.18
+9721,P39,Pius XI,"Pius XI, whose position is that of",bishop,pope,0,0.5,0.0,the most powerful man in,0,6.98
+1675,P407,Guantanamera,The language of Guantanamera was,French,Spanish,1,0.0,0.4,not the language of the,0,6.37
+13233,P413,Zac Robinson,"Zac Robinson, who plays the position",midfielder,quarterback,0,0.5,0.9,", said he was """,0,6.36
+13392,P449,Mega Disasters,Mega Disasters was released on,ITV,History,0,1.0,0.3,the PlayStation 3 in Japan,0,6.2
+12490,P463,Albania national football team,Albania national football team is a part of the,Avengers,FIFA,0,0.0,1.0,national team.,0,7.04
+3414,P495,deadstar,deadstar from,Portugal,Australia,0,0.0,0.9,the game.,0,5.54
+988,P641,Dennis Rodman,Dennis Rodman plays,hockey,basketball,0,0.0,0.9,"the role of the """,0,5.61
+19753,P740,Isotta Fraschini,Isotta Fraschini originated in,Oslo,Milan,0,0.0,1.0,the United States and is,0,6.43
+1446,P937,Thomas Cranmer,Thomas Cranmer used to work in,Jerusalem,Canterbury,1,1.0,0.0,the office of the president,0,6.35
+6939,P101,Henri Brocard,Henri Brocard's expertise is,physics,geometry,1,0.5,0.0,in the field of psychology,0,6.15
+20541,P103,Kozma Prutkov,Kozma Prutkov is a native speaker of,French,Russian,0,0.0,0.9,Russian and Russian-speaking,1,6.99
+7506,P106,Harris Allan,"Harris Allan, who works as",politician,actor,0,0.5,0.8,a lawyer in the city,0,6.18
+15991,P108,Peter Bromley,"Peter Bromley, of",ESPN,BBC,0,0.0,0.1,"the University of Oxford,",0,5.73
+8306,P127,Google Image Labeler,Google Image Labeler is owned by,Winnipeg,Google,0,0.0,1.0,"Google, Inc. and",1,6.34
+21308,P1303,Louis Prima,Louis Prima performs on the,piano,trumpet,1,1.0,0.0,stage at the 2016 MTV,0,6.25
+12573,P131,Tussey Mountain,Tussey Mountain is located in,England,Pennsylvania,0,0.0,0.4,the heart of the state,0,6.16
+12584,P136,Kami-sama no Inai Nichiyōbi,Kami-sama no Inai Nichiyōbi is known for performing,opera,fantasy,1,0.5,0.6,the most famous and most,0,8.34
+9207,P138,Luton Airport,Luton Airport is named after,Milwaukee,London,0,0.0,1.0,the town of the same,0,6.16
+13742,P140,Maronites,Maronites is affiliated with the religion,Judaism,Christianity,1,0.0,0.9,of the Roman Catholic Church,0,6.79
+8797,P1412,Arnold Chikobava,Arnold Chikobava speaks the language,English,Georgian,1,1.0,0.0,of the Russian language.,0,6.8
+417,P159,Sporveien,The headquarters of Sporveien is in,Minneapolis,Oslo,0,0.0,0.9,the city of St.,0,7.02
+4777,P17,Augustdorf,"Augustdorf, which is located in",Greece,Germany,0,0.0,0.9,the heart of the city,0,6.81
+19914,P176,Ferrari F430 Challenge,Ferrari F430 Challenge is developed by,Suzuki,Ferrari,0,0.0,1.0,the FIA and is designed,0,6.43
+5282,P178,WebM,WebM is developed by,Nintendo,Google,0,0.0,1.0,"the University of California,",0,5.7
+11729,P19,"William Thomson, 1st Baron Kelvin","William Thomson, 1st Baron Kelvin was born in",Paris,Belfast,1,0.0,0.4,1829 in the town,0,7.0
+2303,P190,Athens,The twin city of Athens is,Helsinki,Florence,0,0.0,0.5,home to the largest Greek,0,6.22
+10130,P20,Hermann Samuel Reimarus,Hermann Samuel Reimarus passed away in,Paris,Hamburg,1,0.5,0.2,the summer of 1844,0,6.99
+17892,P264,Jackie Wilson,Jackie Wilson's music label is,Federal,Brunswick,1,1.0,0.0,a big part of the,0,6.17
+10775,P27,Elis Regina,Elis Regina is a citizen of,France,Brazil,1,0.5,0.4,Canada and a member of,0,6.37
+20077,P276,Theater Tuschinski,Where is Theater Tuschinski? It is located in,Karachi,Amsterdam,0,0.0,1.0,the heart of the city,0,7.22
+2479,P30,Bertha Island,Bertha Island is located in,Africa,Antarctica,0,0.5,0.7,the middle of the Pacific,0,6.19
+12489,P36,Germany,"Germany, which has the capital city",Athens,Berlin,0,0.0,1.0,"of Berlin, is also",0,6.38
+5289,P364,Vishwaroopam,The original language of Vishwaroopam is,English,Hindi,0,0.0,0.0,"Hindi.
+
+The",1,7.03
+14653,P37,Rwanda,The official language of Rwanda is,Dutch,English,0,0.0,1.0,"""Rwanda,",0,6.16
+6039,P39,Abdas of Susa,"Abdas of Susa, whose position is that of",cardinal,bishop,0,0.0,1.0,the head of the state,0,7.34
+6910,P407,Debka.com,Debka.com was written in,French,Hebrew,1,1.0,0.7,the spirit of the original,0,6.4
+11449,P413,Ross Verba,"Ross Verba, who plays the position",quarterback,guard,1,0.0,0.1,", said he was """,0,6.75
+3856,P449,227,227 is to debut on,Lifetime,NBC,0,0.0,1.0,the new album.,0,5.61
+17061,P463,Ismail Haniyeh,Ismail Haniyeh belongs to the organization of,FIFA,Hamas,0,0.0,1.0,the Islamic State of Iraq,0,7.32
+20834,P495,Etheria,Etheria was created in,Canada,Philippines,1,1.0,0.3,the late 19th century,0,5.72
+20956,P641,Mario Lemieux,What sport does Mario Lemieux play? They play,baseball,hockey,0,0.0,1.0,the game of basketball.,0,7.26
+9630,P740,Banca Commerciale Italiana,Banca Commerciale Italiana was started in,Amsterdam,Milan,0,0.0,0.5,the late 1970s by,0,6.94
+7517,P937,Albert Ballin,Albert Ballin was employed in,Boston,Hamburg,1,1.0,0.9,the United States Army from,0,6.12
+327,P101,Jonathan Haidt,Jonathan Haidt works in the field of,geometry,psychology,0,0.0,1.0,environmental science and has been,0,6.95
+2810,P103,Laura Smet,"Laura Smet, speaker of",Russian,French,0,0.0,1.0,"the House of Commons,",0,6.08
+1317,P106,Guy Pratt,Guy Pratt's occupation is,journalist,actor,1,1.0,0.2,a bit of a mystery,0,5.66
+1563,P108,Simon Brett,"Simon Brett, who is employed by",ESPN,BBC,1,0.0,0.3,"the company, said:",0,6.36
+6331,P127,Google Developers,Google Developers's owner,Fiat,Google,0,0.0,1.0,", Ericsson, said",0,5.49
+18669,P1303,Alberto Guerrero,Alberto Guerrero plays,trumpet,piano,0,0.0,1.0,a key role in the,0,5.4
+8082,P131,Nebraska State Capitol,Nebraska State Capitol can be found in,Pennsylvania,Lincoln,0,0.0,0.6,the state's Capitol Building,0,6.41
+3901,P136,Jesse Davis,Jesse Davis plays,opera,jazz,0,0.5,0.7,"the role of the """,0,5.44
+12320,P138,HMS Belfast,"HMS Belfast, which is called after",Jerusalem,Belfast,0,0.0,1.0,the city where the first,0,6.31
+12333,P140,Al-Qurtubi,Al-Qurtubi is follower of,Christianity,Islam,0,0.0,1.0,the Prophet (peace and,0,6.7
+14881,P1412,Lau Kar-leung,Lau Kar-leung speaks the language,French,Chinese,0,0.5,0.7,of the Korean people.,0,6.78
+17540,P159,EMI,The headquarters of EMI is in,Tokyo,London,0,0.0,1.0,the heart of the city,0,6.41
+17358,P17,Panagarh,Panagarh is located in,Vietnam,India,0,0.0,1.0,the state of Uttar Pradesh,0,6.19
+10347,P176,Nissan 180SX,"Nissan 180SX, developed by",Intel,Nissan,0,0.0,1.0,"Nissan Motor Co., Ltd",1,6.38
+17589,P178,TypeScript,TypeScript was a product of,Adobe,Microsoft,0,0.0,1.0,the Microsoft Visual C++,0,6.14
+7143,P19,Georges Lentz,Georges Lentz is originally from,Naples,Luxembourg,0,0.5,0.4,the Netherlands and is a,0,6.4
+4144,P190,Zagreb,What is the twin city of Zagreb? It is,Tripoli,Shanghai,1,1.0,1.0,a city of the people,0,7.45
+2969,P20,Ludwig Anzengruber,Ludwig Anzengruber lost their life at,Rome,Vienna,1,1.0,0.3,the hands of the Nazis,0,7.0
+6877,P264,Larry Gatlin,Larry Gatlin's record company is,Coral,Monument,1,0.5,0.4,a big part of the,0,6.35
+470,P27,William Osler,"William Osler, who has a citizenship from",Norway,Canada,0,0.0,1.0,"Canada, said he was",1,7.03
+5044,P276,Royal Palace of Amsterdam,Where is Royal Palace of Amsterdam? It is located in,Baghdad,Amsterdam,0,0.0,1.0,the heart of Amsterdam's,0,7.28
+8455,P30,history of Africa,history of Africa is located in the continent,Antarctica,Africa,0,0.0,1.0,"of Africa, and the",0,6.79
+283,P36,Al Madinah Region,Al Madinah Region's capital is,London,Medina,0,0.0,0.4,the capital of the Islamic,0,6.71
+10482,P364,Kotikatu,The original language of Kotikatu was,English,Finnish,1,1.0,0.0,the Japanese. The original,0,6.81
+10903,P37,Namibia,"In Namibia, the language spoken is",Spanish,English,0,0.0,1.0,a mixture of the traditional,0,6.69
+4999,P39,Melchior de Polignac,"Melchior de Polignac, who holds the position of",pope,cardinal,0,0.0,0.9,"Minister of Justice, said",0,7.78
+4411,P407,Histoire de Melody Nelson,Histoire de Melody Nelson is written in,Swedish,French,0,0.0,1.0,"French, and is translated",1,6.79
+7913,P413,Zach Mettenberger,Zach Mettenberger plays in the position of,midfielder,quarterback,0,0.0,0.8,defensive end.,0,6.94
+19333,P449,Bonanza,Bonanza premieres on,CBS,NBC,1,0.5,0.1,"HBO on Sunday, March",0,5.77
+5729,P463,Uzbekistan Football Association,Uzbekistan Football Association is a part of the,UNESCO,FIFA,0,0.0,1.0,Uzbekistan Football Association.,0,6.99
+12565,P495,La Vanguardia,"La Vanguardia, that was created in",France,Spain,1,1.0,0.0,the late 19th century,0,6.72
+19690,P641,Yogi Berra,Yogi Berra plays,football,baseball,0,1.0,0.4,"the role of the """,0,5.67
+8319,P740,Stiff Valentine,Stiff Valentine was formed in,Canada,Vancouver,0,0.0,0.5,the early 1990s by,0,6.11
+1234,P937,Renzo Piano,Renzo Piano took up work in,Berlin,Rome,1,0.5,0.8,"the studio, and he",0,6.39
+4907,P101,William Sharpey,William Sharpey works in the area of,Finnish,anatomy,0,0.5,0.7,the city of New York,0,6.95
+18726,P103,Pieter Cornelis Boutens,The mother tongue of Pieter Cornelis Boutens is,French,Dutch,0,1.0,0.4,"Dutch.
+
+The",1,7.24
+6007,P106,Keen Johnson,"Keen Johnson, who works as",comedian,journalist,0,0.0,1.0,a security guard at the,0,6.15
+587,P108,Rageh Omaar,Rageh Omaar is employed by,ESPN,BBC,1,0.0,0.2,the government to provide security,0,6.79
+17319,P127,George Bush Intercontinental Airport,"George Bush Intercontinental Airport, by",France,Houston,0,0.0,1.0,the way.,0,6.38
+9569,P1303,Erich Gruenberg,"Erich Gruenberg, playing the",guitar,violin,1,1.0,0.2,"role of the ""father",0,6.36
+9465,P131,Ceredigion County Council,Ceredigion County Council is located in,Indiana,Wales,1,1.0,0.9,the heart of the city,0,6.81
+9004,P136,Red Mitchell,Red Mitchell plays,opera,jazz,0,0.0,0.9,"the role of the """,0,5.43
+19874,P138,solar mass,"solar mass, which is named for",Peter,Sun,0,0.5,0.0,the fact that the sun,0,6.39
+429,P140,James I of Aragon,James I of Aragon follows the religion of,Buddhism,Christianity,0,0.0,1.0,"the Church of England,",0,7.04
+10635,P1412,Julia Lovell,Julia Lovell writes in,French,English,0,0.0,0.9,"her book, ""The",0,5.69
+7755,P159,Rank Organisation,Rank Organisation's headquarters are in,Boston,London,0,0.0,0.8,"the city centre, and",0,6.17
+4192,P17,Lismore GAA,Lismore GAA is located in,Netherlands,Ireland,0,0.0,1.0,the heart of the city,0,6.66
+4847,P176,Honda N360,Honda N360 is created by,Toyota,Honda,0,0.0,1.0,"Honda Motor Co., Ltd",1,6.17
+11732,P178,Microsoft Internet Explorer 3,Microsoft Internet Explorer 3 is developed by,Google,Microsoft,0,0.0,1.0,Microsoft. The Windows operating,1,6.36
+3011,P19,Isabel Granada,Isabel Granada is originally from,Honolulu,Manila,0,0.0,0.8,the Dominican Republic and is,0,6.14
+17554,P190,Bucharest,What is the twin city of Bucharest? It is,Alexandria,Ankara,0,0.5,1.0,a city of the future,0,7.21
+5815,P20,Wayne C. Booth,Wayne C. Booth passed away in,Cairo,Chicago,0,0.0,1.0,his sleep on July 7,0,6.36
+11481,P264,"Please, Please","Please, Please is represented by",Brunswick,Federal,0,0.0,0.9,a lawyer. All other,0,6.18
+381,P27,Marguerite Broquedis,"Marguerite Broquedis, a citizen of",Norway,France,0,0.0,0.9,the United States of America,0,7.23
+8849,P276,Arnon Street killings,Arnon Street killings is in,Bradford,Belfast,0,0.0,0.6,the news again.,0,6.11
+3571,P30,Antarctic Plateau,Antarctic Plateau is in,Europe,Antarctica,0,0.0,0.7,the Arctic Ocean.,0,5.67
+2157,P36,Kingdom of Bohemia,The capital of Kingdom of Bohemia is,Santiago,Prague,0,0.0,1.0,the capital of the Bohem,0,6.69
+2182,P364,Rajnigandha,The language of Rajnigandha is,Spanish,Hindi,0,1.0,0.4,a very different language from,0,6.91
+21045,P37,Virolahti,The official language of Virolahti is,French,Finnish,1,1.0,0.1,"""the language of the",0,7.03
+21839,P39,Blaise of Sebaste,Blaise of Sebaste holds the position of,pope,bishop,0,0.0,1.0,the most important figure in,0,7.02
+17424,P407,Kieler Nachrichten,Kieler Nachrichten was written in,Spanish,German,0,0.0,1.0,the early 1990s by,0,6.99
+17739,P413,Luke Kuechly,Luke Kuechly plays in the position of,quarterback,linebacker,1,1.0,0.1,the quarterback.,0,7.01
+11179,P449,The NBC Monday Movie,The NBC Monday Movie premieres on,Netflix,NBC,0,0.0,0.5,"NBC on Sunday, March",1,6.34
+14072,P463,Scottish Football Association,Scottish Football Association is affiliated with,Avengers,FIFA,0,0.0,1.0,the Scottish Football Association.,0,6.17
+4685,P495,Balitang K,"Balitang K, developed in",Japan,Philippines,1,1.0,0.0,the 1960s by the,0,6.4
+4664,P641,Michael Jordan,Michael Jordan is a professional,soccer,basketball,0,0.0,1.0,basketball player and a member,1,5.68
+2368,P740,Secret Trial Five,"Secret Trial Five, founded in",Sweden,Vancouver,0,0.0,0.8,"1885, is a",0,6.2
+3345,P937,Daniel Ernst Jablonski,Daniel Ernst Jablonski worked in,Oslo,Berlin,0,0.5,1.0,the US military for more,0,6.76
+18956,P101,Galen,Galen's expertise is,mathematics,medicine,0,1.0,0.2,in the field of psychology,0,5.79
+20588,P103,Lili Damita,Lili Damita spoke the language,Swedish,French,0,0.0,1.0,of the people of the,0,6.4
+4489,P106,Jack Buetel,The profession of Jack Buetel is,composer,actor,0,0.0,0.8,a profession that is not,0,6.72
+13759,P108,Guy Kawasaki,Guy Kawasaki works for,ESPN,Apple,0,0.0,0.9,"the company, and he",0,5.72
+14717,P127,Sony Pictures Television,Sony Pictures Television is from,Winnipeg,Sony,0,0.0,0.8,the same company that owns,0,5.67
+6351,P1303,Christopher Elton,"Christopher Elton, the",trumpet,piano,0,0.0,1.0,former head of the National,0,5.68
+14005,P131,Heavenly Mountain Resort,Heavenly Mountain Resort is located in,Saskatchewan,California,0,0.0,1.0,the heart of the mountains,0,6.22
+2113,P136,Snub Mosley,"Snub Mosley, who plays",sitcom,jazz,0,0.0,1.0,"the character of the """,0,6.34
+19631,P138,Cambridge Airport,Cambridge Airport is named after,Andrew,Cambridge,0,0.0,0.6,"the city of Cambridge,",0,5.73
+2572,P140,Eliezer ben Hurcanus,Eliezer ben Hurcanus is affiliated with the religion,Islam,Judaism,1,0.5,0.2,of the Jews.,0,7.5
+13021,P1412,Frederick Ashton,Frederick Ashton writes in,Hungarian,English,0,0.0,1.0,the New York Times that,0,5.48
+6549,P159,HealthCap,"HealthCap, whose headquarters are in",Paris,Stockholm,1,1.0,0.3,"the heart of downtown,",0,6.32
+21641,P17,Bastia,Bastia is located in the country of,Denmark,France,0,0.0,0.9,the former Soviet Union.,0,6.72
+10287,P176,Renault 18,Renault 18 is created by,Chevrolet,Renault,0,0.0,1.0,the same team that created,0,5.69
+21213,P178,Microsoft Office 2003,"Microsoft Office 2003, a product created by",Google,Microsoft,0,0.0,0.8,"Microsoft in 2003, is",1,6.77
+13873,P19,Kevin Lamoureux,Kevin Lamoureux was born in,Paris,Winnipeg,1,1.0,0.4,"Paris, France, on",0,6.74
+13974,P190,Dubai,The twin city of Dubai is,Lyon,Baghdad,0,0.0,0.9,home to the world's,0,6.1
+8055,P20,Pablo de Rokha,Pablo de Rokha's life ended in,Vienna,Santiago,0,0.5,0.8,a tragic accident in the,0,7.01
+2299,P264,The McGuire Sisters,The McGuire Sisters label :,Swan,Coral,0,0.0,0.1,"""The McGuire Sisters",0,6.17
+19090,P27,Marcus Horan,"Marcus Horan, who holds a citizenship from",Algeria,Ireland,0,0.0,1.0,"the United States, said",0,7.02
+5827,P276,congress of Berlin,The location of congress of Berlin is,Vancouver,Berlin,0,0.0,0.9,not known.,0,6.38
+4903,P30,Sobral Peninsula,"Sobral Peninsula, in",Africa,Antarctica,1,0.5,0.8,the south of the country,0,5.77
+9750,P36,Homs Governorate,The capital of Homs Governorate is,Tokyo,Damascus,0,0.0,0.9,the capital of the Syrian,0,6.37
+18382,P364,District 13,The original language of District 13 is,Hindi,French,0,0.0,1.0,"English.
+
+The",0,6.39
+15173,P37,Lapinlahti,"In Lapinlahti, the language spoken is",Russian,Finnish,1,1.0,0.0,a mixture of the Old,0,7.0
+16068,P39,Innocent XII,"Innocent XII, whose position is that of",cardinal,pope,0,1.0,0.3,"the ""savior of",0,6.8
+13010,P407,Lili Marleen,The language of Lili Marleen was,Vietnamese,German,0,0.0,1.0,a bit different. She,0,6.68
+175,P413,John Navarre,John Navarre plays in the position of,linebacker,quarterback,0,0.0,1.0,the captain.,0,6.81
+10657,P449,The DuPont Show with June Allyson,The DuPont Show with June Allyson is to debut on,HBO,CBS,0,0.0,0.5,"the new ""The Du",0,7.52
+21609,P463,Bulgaria,Bulgaria is affiliated with,FIFA,NATO,0,0.0,1.0,the United Nations Development Programme,0,5.48
+4514,P495,sarangi,"sarangi, that was developed in",Canada,India,0,0.0,0.9,the late 19th century,0,6.71
+3689,P641,Ed O'Neill,Ed O'Neill is a professional,basketball,football,0,0.0,1.0,writer and editor for the,0,6.35
+2793,P740,Man Man,"Man Man, that was started in",Houston,Philadelphia,0,0.0,0.9,the early 1990s by,0,6.32
+1331,P937,Jules Moch,Jules Moch took up work in,Berlin,Paris,0,0.0,0.9,the office of the president,0,6.79
+3852,P101,Struga Poetry Evenings,Struga Poetry Evenings specializes in,geography,poetry,0,0.0,0.5,"poetry, and it's",1,6.98
+15189,P103,Christian Clavier,"Christian Clavier, a native",Russian,French,0,0.5,1.0,"of the Dominican Republic,",0,6.28
+9315,P106,Mayra Alejandra,The profession of Mayra Alejandra is,composer,actor,0,0.0,0.8,a profession that is not,0,7.1
+12942,P108,Henry Swanzy,Henry Swanzy works for,WWE,BBC,0,0.5,0.5,the National Endowment for,0,5.75
+13071,P127,The Sleepers,"The Sleepers, by",France,Paris,0,1.0,0.3,"the way, are the",0,5.8
+15868,P1303,Terence Blanchard,"Terence Blanchard, the",guitar,trumpet,1,1.0,0.0,former head of the National,0,6.48
+1599,P131,Minneapolis City Hall,Minneapolis City Hall is located in,Devon,Minneapolis,0,0.0,1.0,the heart of the city,0,6.24
+10350,P136,Willie Dennis,Willie Dennis performs,sitcom,jazz,0,0.0,1.0,at the 2016 MTV Video,0,5.47
+15467,P138,London Victoria station,"London Victoria station, named after",Pandora,Victoria,0,0.0,1.0,the city's first mayor,0,6.16
+8041,P140,Heidi Baker,The official religion of Heidi Baker is,Judaism,Christian,1,0.0,0.7,the Christian faith of the,0,6.38
+15295,P1412,Carl Jakob Sundevall,Carl Jakob Sundevall speaks,English,Swedish,1,1.0,0.3,to the media after the,0,6.38
+9504,P159,Gerrit Rietveld Academie,The headquarter of Gerrit Rietveld Academie is in,Bedford,Amsterdam,0,0.5,0.9,the process of building a,0,8.4
+21639,P17,Tukvar Tea Estate,"Tukvar Tea Estate, located in",Russia,India,0,0.0,1.0,the heart of the city,0,6.81
+782,P176,Honda CX series,Honda CX series is produced by,Airbus,Honda,0,0.0,1.0,"Honda Motor Co., Ltd",1,6.37
+1014,P178,Logic Pro,"Logic Pro, a product developed by",Microsoft,Apple,1,0.5,0.3,the company that makes the,0,6.38
+2165,P19,Carsten Dahl,Carsten Dahl was native to,London,Copenhagen,1,0.5,0.1,the United States and was,0,6.15
+19574,P190,Islamabad,What is the twin city of Islamabad? It is,Cairo,Ankara,1,1.0,0.2,a city of the people,0,6.98
+5103,P20,Pier Francesco Mola,Pier Francesco Mola expired at,Paris,Rome,0,0.0,0.7,the end of the season,0,6.34
+6786,P264,Creedence Clearwater Revival,Creedence Clearwater Revival is represented by,Federal,Fantasy,1,1.0,0.7,the following:,0,6.77
+21480,P27,Patrick Chinamasa,Patrick Chinamasa has a citizenship from,Germany,Zimbabwe,0,0.5,0.5,the Philippines. He is,0,6.72
+11858,P276,29 September 2008 western India bombings,Where is 29 September 2008 western India bombings? It is located in,Spain,Maharashtra,0,0.0,0.8,the middle of the country,0,7.72
+19959,P30,Douro,Douro is in,Antarctica,Europe,0,0.0,1.0,the process of getting his,0,5.54
+1042,P36,Metropolis of Greater Paris,"Metropolis of Greater Paris, which has the capital city",London,Paris,0,0.5,0.8,"of Paris, is the",0,7.18
+17438,P364,Commediasexi,The original language of Commediasexi is,English,Italian,1,1.0,0.1,"the Latin word for """,0,7.01
+17569,P37,Mandatory Palestine,"In Mandatory Palestine, an official language is",Finnish,English,0,0.0,1.0,being used to describe the,0,6.72
+138,P39,Decio Azzolino,"Decio Azzolino, who has the position of",bishop,cardinal,0,0.0,0.3,director of the National Institute,0,7.52
+19114,P407,Le Droit,The language of Le Droit was,Swedish,French,0,0.0,1.0,not the language of the,0,6.42
+276,P413,Nigel de Jong,Nigel de Jong plays in the position of,pitcher,midfielder,0,0.5,0.8,the captain.,0,6.81
+6117,P449,Sonny Spoon,Sonny Spoon debuted on,ESPN,NBC,0,0.5,1.0,the Billboard Hot 100 in,0,5.51
+2179,P463,Italy national football team,Italy national football team is a part of the,UFO,FIFA,0,0.0,1.0,national team.,0,6.99
+5640,P495,"Mirror, Mirror II","Mirror, Mirror II was developed in",Romania,Australia,0,0.0,1.0,the late 1980s by,0,6.34
+18964,P641,Phil Jackson,"Phil Jackson, the",soccer,basketball,0,0.0,1.0,former president of the United,0,5.53
+8956,P740,Cunningham automobile,"Cunningham automobile, that originated in",Rome,Rochester,0,0.5,0.2,"the United States, was",0,6.09
+8882,P937,Christian Ude,Christian Ude worked in the city of,Dresden,Munich,1,0.0,0.9,"Baku, Azerbaijan,",0,6.75
+19546,P101,Frederick Ashton,Frederick Ashton specializes in,medicine,ballet,1,1.0,0.0,the history of the American,0,5.59
+2585,P103,Jacques Doriot,Jacques Doriot is a native speaker of,Russian,French,0,0.0,1.0,French and English. He,1,6.78
+6943,P106,Jean Gabriel Marchand,Jean Gabriel Marchand works as,actor,lawyer,0,0.0,0.6,a consultant for the National,0,6.2
+14483,P108,Danny Baker,"Danny Baker, who is employed by",Intel,BBC,1,0.5,0.5,"the company, said the",0,6.41
+15364,P127,Hamburger Hochbahn,Hamburger Hochbahn is owned by,Sony,Hamburg,0,0.5,0.6,the German company Hoch,0,6.96
+11669,P1303,Peter Rainer,Peter Rainer plays the instrument,piano,violin,1,1.0,0.2,", and the band plays",0,6.15
+15208,P131,Spirit Mountain Wilderness,Spirit Mountain Wilderness is within,Brooklyn,Nevada,0,0.0,1.0,the Wilderness of the Dead,0,5.71
+14552,P136,Susie Arioli,Susie Arioli plays,funk,jazz,0,0.0,1.0,the role of a young,0,5.67
+4715,P138,Cabernet Franc,"Cabernet Franc, which was named after",Athena,France,0,0.0,1.0,the French explorer and explorer,0,6.97
+5933,P140,Maulana Mohammad Ali,Maulana Mohammad Ali is follower of,Buddhism,Islam,0,0.0,1.0,the Prophet Muhammad.,0,6.37
+408,P1412,Leonhard Christian Borchgrevink Holmboe,Leonhard Christian Borchgrevink Holmboe speaks the language,French,Norwegian,1,1.0,0.2,of the future.,0,8.15
+5574,P159,Danish Film Institute,"Danish Film Institute, whose headquarters are in",Chicago,Copenhagen,0,0.0,0.7,"the city of Copenhagen,",0,6.78
+18816,P17,Minu District,"Minu District, in",Finland,Iran,0,1.0,0.9,the south-east of,0,5.69
+163,P176,Renault 5,Renault 5 is created by,Toyota,Renault,0,0.0,1.0,the same team as the,0,5.73
+20721,P178,Microsoft Entourage,"Microsoft Entourage, a product of",Airbus,Microsoft,0,0.0,1.0,the company's parent company,0,6.38
+3688,P19,Martin Sweet,Martin Sweet is native to,Cincinnati,Stockholm,1,1.0,0.7,the United States and has,0,5.69
+21743,P190,Warsaw,What is the twin city of Warsaw? It is,Dubai,Madrid,0,0.0,0.9,a city of the Polish,0,7.05
+4751,P20,John Van Voorhis,John Van Voorhis's life ended in,Vienna,Rochester,0,1.0,0.8,a car accident in the,0,6.97
+798,P264,Lifemask,Lifemask label :,Federal,Harvest,1,0.0,0.6,"""M"" ,",0,5.74
+13809,P27,George Fox,George Fox is a citizen of,Sweden,England,0,0.5,0.8,the United States of America,0,6.15
+19028,P276,King David Hotel bombing,King David Hotel bombing is in,Birmingham,Jerusalem,0,1.0,0.7,the news again.,0,6.14
+10168,P30,South Beaches,South Beaches belongs to the continent of,Asia,Antarctica,1,0.5,0.7,"Africa, and is the",0,6.82
+9682,P36,Khalji dynasty,"Khalji dynasty, which has the capital",Warsaw,Delhi,0,0.0,0.9,"of the world, is",0,6.74
+4080,P364,Ginevra di Scozia,The language of Ginevra di Scozia was,Welsh,Italian,0,0.0,0.9,not the same as that,0,7.43
+5383,P37,Organisation for Economic Co-operation and Development,"In Organisation for Economic Co-operation and Development, the language spoken is",Spanish,French,1,0.5,0.9,not the same as the,0,8.17
+15310,P39,Sigfrid of Sweden,"Sigfrid of Sweden, who holds the position of",pope,bishop,0,0.0,1.0,"Minister of Foreign Affairs,",0,7.25
+1512,P407,Dead Souls,The language of Dead Souls is,Italian,Russian,1,0.5,0.7,a bit more complex than,0,6.15
+17318,P413,Matt Flynn,Matt Flynn plays in the position of,midfielder,quarterback,0,0.0,1.0,the quarterback.,0,6.33
+10469,P449,Flo,Flo was released on,NBC,CBS,0,0.5,1.0,"March 1, 2016.",0,5.59
+10995,P463,Football Federation of Ukraine,Football Federation of Ukraine is affiliated with the,Hamas,FIFA,0,0.0,1.0,Ukrainian Federation of Football Federation,0,6.73
+5210,P495,Rififi,"Rififi, that was created in",India,France,1,0.5,0.9,the early 1990s.,0,6.76
+5494,P641,Drew Brees,What sport does Drew Brees play? They play,basketball,football,0,0.0,0.8,football. They play football,1,7.02
+5479,P740,Escada SE,Escada SE originated in,Glasgow,Munich,1,0.5,1.0,the late 19th century,0,5.75
+2068,P937,Jacques Laffitte,Jacques Laffitte found employment in,London,Paris,0,0.0,0.7,the French military in the,0,6.41
+7409,P101,woodburytype,woodburytype's domain of work is,anthropology,photography,0,0.0,0.5,"the ""C"" domain",0,6.76
+16451,P103,Georges Hugnet,The mother tongue of Georges Hugnet is,Dutch,French,0,0.0,1.0,"French, and the father",1,7.08
+4312,P106,Gu Seung-hyeon,Gu Seung-hyeon's occupation is,poet,actor,0,0.0,0.8,a major factor in the,0,6.99
+12697,P108,Vincent Connare,Vincent Connare works for,BBC,Microsoft,0,0.0,0.9,the National Institute of Mental,0,5.69
+18020,P127,Commerzbank-Arena,Commerzbank-Arena is from,Microsoft,Frankfurt,0,1.0,0.8,the Netherlands and is based,0,6.97
+3666,P1303,Cat Stevens,Cat Stevens performs on the,piano,guitar,1,0.0,0.6,stage at the 2016 MTV,0,5.71
+1100,P131,Calder Freeway,"Calder Freeway, in",Kerala,Victoria,0,0.0,1.0,the heart of the city,0,5.76
+17035,P136,MetroJazz Records,"MetroJazz Records, who plays",opera,jazz,0,0.0,0.8,"at the show, said",0,6.4
+1354,P138,Boryspil International Airport,"Boryspil International Airport, which was named for",Aristotle,Kiev,0,0.0,0.9,the late Russian poet and,0,7.28
+10989,P140,Alfred the Great,Alfred the Great is follower of,Islam,Christianity,1,0.5,0.1,"the Great King, and",0,6.15
+9366,P1412,James Howell,James Howell speaks,Spanish,English,0,0.0,1.0,to the media after the,0,5.49
+17893,P159,Frederick & Nelson,Frederick & Nelson is headquartered in,Stockholm,Seattle,0,1.0,0.9,New York City.,0,6.12
+1961,P17,Ginza,"Ginza, in",India,Japan,1,0.0,1.0,"a statement, said:",0,5.51
+6616,P176,Fiat Croma,"Fiat Croma, developed by",Honda,Fiat,0,0.0,0.5,the British in the late,0,6.17
+8990,P178,IBM General Parallel File System,IBM General Parallel File System is developed by,Sega,IBM,0,0.0,0.9,"the University of California,",0,6.8
+15242,P19,Lloyd Berkner,Lloyd Berkner was native to,Auckland,Milwaukee,0,0.0,0.9,the United States and was,0,6.16
+21909,P190,Tel Aviv,What is the twin city of Tel Aviv? It is,Tokyo,Milan,1,1.0,0.2,a city of the Jews,0,7.22
+15437,P20,Sheridan Morley,Sheridan Morley passed away in,Prague,London,0,0.0,1.0,the early hours of Sunday,0,6.2
+16480,P264,Oh Girl,Oh Girl's record label is,Legacy,Brunswick,1,0.5,0.0,a big deal. It,0,6.22
+15359,P27,Giovanni Ferrari,"Giovanni Ferrari, a citizen of",Japan,Italy,0,0.0,1.0,"Italy, was arrested in",1,6.13
+17305,P276,Gulf War,The location of Gulf War is,Belfast,Israel,0,0.0,1.0,a matter of debate.,0,6.19
+9368,P30,Long Hills,Long Hills is located in the continent,Europe,Antarctica,1,1.0,0.5,"of North America, and",0,6.34
+17331,P36,Kingdom of Afghanistan,"Kingdom of Afghanistan's capital city,",Salvador,Kabul,0,0.0,1.0,"Kabul, on Saturday.",1,6.5
+5968,P364,Natural City,The original language of Natural City is,Tamil,Korean,0,0.5,1.0,"English.
+
+The",0,6.37
